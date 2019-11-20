@@ -1,0 +1,17 @@
+Vector:
+
+
+Matrices:
+
+
+List:
+
+
+Array:
+
+
+Factors:
+
+
+Data Frames:
+

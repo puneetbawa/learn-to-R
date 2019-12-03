@@ -9,4 +9,6 @@ emp.data <- data.frame(
 print(emp.data) 
 summary(emp.data)
 qout<-data.frame(emp.data$emp_name,emp.data$salary)
+result<-emp.data[1:2,]
 print(qout)
+print(result)
